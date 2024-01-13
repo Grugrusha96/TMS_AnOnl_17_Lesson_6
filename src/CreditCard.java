@@ -1,4 +1,8 @@
 import buttons.Button;
+import computer.Computer;
+import computer.HDD;
+import computer.HDDTip;
+import computer.RAM;
 
 
 //1. Создать класс CreditCard с полями номер счета, текущая сумма на счету.
